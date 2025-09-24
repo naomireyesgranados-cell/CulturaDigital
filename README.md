@@ -1,2 +1,4 @@
 # CulturaDigital
-Tareas Semanales: Aquí se subirán los archivos relacionados con las tareas de la clase de Cultura Digital. 
+Tareas Semanales: Aquí se subirán los archivos relacionados con las tareas de la clase de Cultura Digital.
+
+Esto aparece solo en la nueva rama.
